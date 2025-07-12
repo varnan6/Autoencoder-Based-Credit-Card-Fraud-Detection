@@ -1,4 +1,4 @@
-# Social Media vs Productivity — ML Pipeline
+# Autoencoder-Based Credit Card Fraud Detection
 ---
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Python](https://img.shields.io/badge/Python-3.10.4%2B-blue)
@@ -6,7 +6,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/varnan6/Autoencoder-Based-Credit-Card-Fraud-Detection)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-available-orange)
 ---
-This project analyzes how various lifestyle and behavioral factors — including social media usage — impact actual productivity scores. It performs exploratory data analysis, builds preprocessing and regression pipelines, performs model tuning via Grid Search, and interprets results using SHAP.
+This project implements an unsupervised deep learning pipeline using an autoencoder to detect fraudulent transactions in credit card data. It follows a robust ML workflow with modular design, EDA, preprocessing, 5-fold CV training, anomaly detection using reconstruction loss, and SHAP-based interpretability.
 
 ## Project Structure
 
